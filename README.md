@@ -27,5 +27,4 @@ This project is a simple web-based student attendance system developed using **H
 - `style.css` – Styling of the webpage
 - `script.js` – JavaScript functionality
 
-## Author
-Your Name
+
