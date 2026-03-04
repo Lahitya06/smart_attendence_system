@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Smart Student Attendance System</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Smart Student Attendance System</h1>
+
+<h3>Select Date:</h3>
+<input type="date" id="date">
+
+<table>
+<thead>
+<tr>
+<th>Student Name</th>
+<th>Present</th>
+</tr>
+</thead>
+
+<tbody id="studentTable">
+</tbody>
+</table>
+
+<button onclick="saveAttendance()">Save Attendance</button>
+
+<h2>Attendance Dashboard</h2>
+<button onclick="calculateAttendance()">View Attendance Percentage</button>
+
+<div id="result"></div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

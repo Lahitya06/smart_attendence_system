@@ -1,0 +1,44 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#f4f6f8;
+}
+
+h1{
+color:#333;
+}
+
+table{
+margin:auto;
+border-collapse:collapse;
+width:50%;
+background:white;
+}
+
+th,td{
+border:1px solid #ddd;
+padding:10px;
+}
+
+th{
+background:#4CAF50;
+color:white;
+}
+
+button{
+margin-top:20px;
+padding:10px 20px;
+background:#4CAF50;
+color:white;
+border:none;
+cursor:pointer;
+}
+
+button:hover{
+background:#45a049;
+}
+
+#result{
+margin-top:20px;
+font-size:18px;
+}
