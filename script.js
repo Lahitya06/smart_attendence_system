@@ -1,5 +1,5 @@
 // student list
-let students = ["Rahul", "Priya", "Aman", "Neha", "Arjun"];
+let students = ["Lahitya", "Varsha", "Pravallika", "Sindhuja", "Deepika", "Apoorva"];
 
 // load students in table
 function loadStudents(){
